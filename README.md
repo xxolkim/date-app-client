@@ -7,7 +7,7 @@
 
 ## 시연 영상
 
-시연연상 자리
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-n116VzZ49I?si=9NC-UHb8k5MAozuL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 프로젝트 소개
 
@@ -26,13 +26,13 @@
 
 ### 😃 FE (Frontend)
 
-- #### 손재학(팀장) : 메인페이지, 캘린더 <br>
+- #### 손재학(팀장) : 메인페이지 <br>
 
 - #### 곽민성(팀원) : 글 추가, 상세보기, 수정 및 삭제<br>
 
 - #### 최지은(팀원) : 프로필 및 수정, 파트너 프로필<br>
 
-- #### 김 솔(팀원) : 인트로, 로그인<br>
+- #### 김 솔(팀원) : 인트로, 로그인, 캘린더<br>
 
 ### 🙂 BE (Backend)
 
